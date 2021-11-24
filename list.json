@@ -1,0 +1,17 @@
+[
+	{
+		"name": "yandex",
+		"domain": "yandex.ru",
+		"message": "Hello %username%! My name is Yandex!"
+	},
+	{
+		"name": "google",
+		"domain": "google.ru",
+		"message": "Hello %username%! My name is Google!"
+	},
+	{
+		"name": "bing",
+		"domain": "bing.com",
+		"message": "Hello %username%! My name is Bing!"
+	}
+]
